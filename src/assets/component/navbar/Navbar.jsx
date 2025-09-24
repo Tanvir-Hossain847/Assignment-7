@@ -16,7 +16,7 @@ const Navbar = () => {
       <li><a>Blog</a> </li>
       <li><a>Download</a> </li>
       <li><a>Contact</a> </li>
-      <button class="btn bg-linear-to-r from-[#632EE3] to-[#9F62F2] text-white"><span className='text-2xl'>+</span>New Ticket</button>
+      <button class="btn bg-linear-to-r from-[#632EE3] to-[#9F62F2] text-white items-center"><span className='text-2xl'>+</span>New Ticket</button>
     </ul>
   </div>
 </div>

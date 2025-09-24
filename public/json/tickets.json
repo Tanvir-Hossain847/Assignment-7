@@ -1,0 +1,110 @@
+[
+  {
+    "id": "TKT-1001",
+    "title": "Unable to login to dashboard",
+    "description": "Customer reports receiving 'Invalid credentials' error after entering correct password. Happens on both desktop and mobile.",
+    "customer": "Acme Corp",
+    "priority": "High",
+    "status": "open",
+    "createdAt": "2025-09-25T09:12:00+06:00"
+  },
+  {
+    "id": "TKT-1002",
+    "title": "Payment gateway timeout",
+    "description": "Checkout fails intermittently with a timeout when contacting the payment provider. Affects ~10% of transactions.",
+    "customer": "BrightRetail Ltd",
+    "priority": "Critical",
+    "status": "in-progress",
+    "createdAt": "2025-09-24T16:45:00+06:00"
+  },
+  {
+    "id": "TKT-1003",
+    "title": "Broken image on homepage",
+    "description": "Hero image on the landing page displays a broken link on Safari browsers.",
+    "customer": "GreenLeaf",
+    "priority": "Low",
+    "status": "open",
+    "createdAt": "2025-09-20T11:30:00+06:00"
+  },
+  {
+    "id": "TKT-1004",
+    "title": "API: inaccurate product stock counts",
+    "description": "Inventory API returning stale counts for several SKUs after bulk import process.",
+    "customer": "Wholesale Plus",
+    "priority": "High",
+    "status": "in-progress",
+    "createdAt": "2025-09-18T08:05:00+06:00"
+  },
+  {
+    "id": "TKT-1005",
+    "title": "Request for new report: Monthly churn",
+    "description": "Customer requests a new analytics report showing monthly churn by cohort.",
+    "customer": "SaaSify Inc",
+    "priority": "Medium",
+    "status": "pending",
+    "createdAt": "2025-09-15T14:20:00+06:00"
+  },
+  {
+    "id": "TKT-1006",
+    "title": "Mobile app crash on startup",
+    "description": "Android app (v4.2.1) crashes immediately after launch on certain Samsung devices.",
+    "customer": "FitTrack",
+    "priority": "Critical",
+    "status": "open",
+    "createdAt": "2025-09-14T07:50:00+06:00"
+  },
+  {
+    "id": "TKT-1007",
+    "title": "Email notifications delayed",
+    "description": "Transactional emails are delayed by up to 2 hours for users in EU region.",
+    "customer": "EduPortal",
+    "priority": "Medium",
+    "status": "in-progress",
+    "createdAt": "2025-09-10T19:10:00+06:00"
+  },
+  {
+    "id": "TKT-1008",
+    "title": "Localization: missing translations",
+    "description": "Several strings in the settings page are not translated into Spanish (es-ES).",
+    "customer": "Nomad Travels",
+    "priority": "Low",
+    "status": "open",
+    "createdAt": "2025-09-08T12:00:00+06:00"
+  },
+  {
+    "id": "TKT-1009",
+    "title": "Slow page load during peak hours",
+    "description": "Dashboard load times exceed 8s between 18:00-20:00 UTC for enterprise customers.",
+    "customer": "DataVista",
+    "priority": "High",
+    "status": "investigating",
+    "createdAt": "2025-09-05T21:35:00+06:00"
+  },
+  {
+    "id": "TKT-1010",
+    "title": "Request: add webhook for order-updates",
+    "description": "Customer requests a configurable webhook to be triggered when order status changes.",
+    "customer": "QuickCommerce",
+    "priority": "Medium",
+    "status": "pending",
+    "createdAt": "2025-09-03T10:05:00+06:00"
+  },
+  {
+    "id": "TKT-1011",
+    "title": "Accessibility: insufficient color contrast",
+    "description": "Several buttons on the checkout page fail WCAG contrast ratio checks.",
+    "customer": "Shop&Ship",
+    "priority": "Low",
+    "status": "open",
+    "createdAt": "2025-09-02T15:42:00+06:00"
+  },
+  {
+    "id": "TKT-1012",
+    "title": "Data export CSV contains malformed rows",
+    "description": "CSV exports from the reports module have extra commas breaking import to Excel for certain accounts.",
+    "customer": "FinEdge",
+    "priority": "High",
+    "status": "resolved",
+    "createdAt": "2025-08-29T09:00:00+06:00"
+  }
+]
